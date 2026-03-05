@@ -7,3 +7,5 @@ In this page I created an HTML file that includes:
   - One image loaded from a remote URL.
 - A section with id "video" embedding a video using the `<video>` tag from a remote source.
 - A footer containing copyright information.
+- style.css file handles the styling
+- 
