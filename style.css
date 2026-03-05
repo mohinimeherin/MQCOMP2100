@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, serif;
+}
+
+#intro-italic {
+  font-style: italic;
+}
+
+#three-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+}
